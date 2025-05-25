@@ -57,26 +57,6 @@ Courses Assigned:
 - CS103: OOP in Java | Faculty: Dr. Iyer
 - EE101: Basic Electrical | Faculty: Mr. Verma
 - EN101: English Communication | Faculty: Prof. Rathi
-🚀 How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/college-management-system.git
-cd college-management-system
-Compile and run:
-
-bash
-Copy
-Edit
-javac college_managements.java
-java college_managements
-Ensure that all class files are in the same directory or properly packaged if refactored.
-
-📚 Concepts Demonstrated
-Abstraction: via Person abstract class.
-
-Inheritance: Student extends Person.
 
 Composition: Course includes Faculty, Section includes multiple Course instances, and Student is associated with a Section.
